@@ -24,7 +24,7 @@
 # the DLL name should be changed from "zlib1.dll".
 
 STATICLIB = libz.a
-SHAREDLIB = zlib1.dll
+SHAREDLIB = libz.dll
 IMPLIB    = libz.dll.a
 
 #
